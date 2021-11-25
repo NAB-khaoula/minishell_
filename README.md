@@ -2,9 +2,9 @@
 The objective of this project is for you to create a simple shell. Yes, your own little bash or zsh. You will learn a lot about processes and file descriptors.
 ## Contributors:
   <ul>
-    <li><b>Mojahid BELAMAN</b> &nbsp;&nbsp;=> <a href="https://www.linkedin.com/in/mojahid-belaman/" target="_blank">LinkedIn</a></li>
-    <li><b>Khaoula NABOUSSI</b
+  <li><b>Khaoula NABOUSSI</b
     > => <a href="https://www.linkedin.com/in/khaoula-naboussi-621646199/" target="_blank">LinkedIN</a></li>
+    <li><b>Mojahid BELAMAN</b> &nbsp;&nbsp;=> <a href="https://www.linkedin.com/in/mojahid-belaman/" target="_blank">LinkedIn</a></li>
   </ul>
 
 ## Subject:
